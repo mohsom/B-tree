@@ -3,3 +3,5 @@
  */
 const readline = require('readline');
 const Tree = require('./2-3Tree');
+
+const hello = 'hello';
